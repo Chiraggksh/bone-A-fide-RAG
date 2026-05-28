@@ -155,7 +155,7 @@ streamlit run frontend/app.py
 
 ---
 
-## uthor
+## Author
 
 **Chirag Kaushik**
 B.Tech (AI & Data Science)
