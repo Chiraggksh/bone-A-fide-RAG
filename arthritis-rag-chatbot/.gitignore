@@ -1,0 +1,10 @@
+data/raw_pdfs/
+data/processed_text/
+data/metadata/
+venv/
+.env
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+vector_store/
